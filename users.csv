@@ -1,0 +1,18 @@
+ID,EMAIL,NAME,PASSWORD,ROLE
+111,abd@gmail.com,ALI,123,USER
+112,abc@gmail.com,JAMIL,123,user
+113,abc@hotmail.com,ali,222,user
+114,ali321@gmail.com,alii,12345,user
+115,hamza3211@gmail.com,Hazma,321,user
+116,ahsan@gmail.com,ahsan,123,user
+117,ali@gmail.com,alikhan,123,admin
+118,ahsankhan@gmail.com,ahsan,123,admin
+119,usmankhan@gmail.com,usman khan,123,user
+120,taqi@gmail.com,taqi,123,admin
+121,razzak@gmail.com,razzak,123,admin
+122,kamran@gmail.com,sir kamran,123,user
+123,ahmadkhattak@gmail.com,ahmad khattak,123,user
+124,dastageer@gmail.com,dastageer,123,admin
+125,faraz@gmail.com,faraz,123,admin
+126,dost@gmail.com,dost,123,user
+127,nasir@gmail.com,nasir,12345,user
